@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @curlygrlirl
-- 👀 I’m interested in learning front-end web developement.
+- 👀 I’m interested in learning front-end web developement and (visual) web design.
 - 🌱 I’m currently learning several Linkedin Learning courses and taking a web developement bootcamp course on Udemy.
-- 💞️ I’m looking to collaborate on front-end projects.
+- 💞️ I’m looking to collaborate on web design/front-end projects.
 - 📫 How to reach me: denise.cass93@gmail.com
 
 <!---
